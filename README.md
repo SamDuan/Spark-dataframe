@@ -1,1 +1,2 @@
-This repository includes a record concerning how I installed and run spark at Jupyter notebook locally as well dataframe manipulation.
+This repository contains code files specifically IPython notebooks in which I installed, run spark at Jupyter notebook locally and performed dataframe manipulation.
+ 
